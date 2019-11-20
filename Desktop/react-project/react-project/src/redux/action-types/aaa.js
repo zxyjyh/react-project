@@ -1,0 +1,1 @@
+//定義action.type 的 常量
